@@ -18,7 +18,7 @@ This repository does **not** modify or extend core product logic. Instead, it do
 
 Lightweight reference documentation is available under `/docs` and is publicly hosted for ease of access:
 
-https://oviaseshadri.github.io/ctrading-devrel-evaluation/
+https://oviaseshadri.github.io/ctrading-meta/
 
 The documentation covers:
 
