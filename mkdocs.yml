@@ -1,0 +1,10 @@
+site_name: Theta Screener – Reference Documentation
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Product Overview: overview.md
+  - API Surface (Observed): api-surface.md
+  - Running the Sample App: sample-app-setup.md
+  - Known Issues & Limitations: known-issues.md
