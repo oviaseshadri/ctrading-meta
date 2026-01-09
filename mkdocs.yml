@@ -8,3 +8,7 @@ nav:
   - API Surface (Observed): api-surface.md
   - Running the Sample App: sample-app-setup.md
   - Known Issues & Limitations: known-issues.md
+
+site_url: https://oviaseshadri.github.io/ctrading-devrel-evaluation/
+use_directory_urls: false
+
